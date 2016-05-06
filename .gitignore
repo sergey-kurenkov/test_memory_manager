@@ -1,0 +1,9 @@
+*~
+*.o
+*.a
+mem_manager
+*.exe
+.cproject
+.project
+.settings
+
